@@ -127,7 +127,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/salim2607/salim2607/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/salim2607/salim2607/output/snake.svg" alt="Animation de serpent" />
 
 ###
 
